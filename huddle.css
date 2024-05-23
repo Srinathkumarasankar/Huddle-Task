@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(./bg-desktop.svg);
+    background-color:hsl(257, 40%, 49%) ;
+}
+#logo{
+    width: 10%;
+    margin: 50px;
+}
+
+.parent{
+    display: flex;
+}
+.two{
+    width: 450px;
+    margin: 50px;
+}
+.heading{
+    width: 350px;
+    margin-bottom: 30px;
+}
+.para{
+    width: 400px;
+    margin-bottom: 20px;
+}
+button{
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+}
+.one{
+    margin-left: 35px;
+}
+footer{
+    text-align: end;
+    font-size: 30px;
+    padding:30px;
+    word-spacing: 10px;
+}
